@@ -1,0 +1,28 @@
+body{
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+
+h1,h2,h3,h4,h5,h6{
+    /* font-family: 'Noto Sans SC', sans-serif;
+font-family: 'Roboto Slab', serif; */
+font-family: 'Noto Sans SC', sans-serif;
+font-family: 'Roboto Slab', serif;
+font-family: 'Vina Sans', sans-serif;
+}
+
+
+
+
+.links-wrapper > .nav-link{
+    display: flex ;
+    justify-content: space-between;
+    text-align: center;
+
+}
+
+
+
